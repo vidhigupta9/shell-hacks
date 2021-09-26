@@ -7,6 +7,7 @@ HelloEdu is a fast and powerful application that reduces a long, archived video 
 - Summarize items from Blogs, Podcasts, Lectures and other educational material.
 - High accuracy AI generated summaries.
 - Skip over unwanted content to parts that you want to!
+- Download Transcript and Summary for future reference
 
 ## 🔐 Key Features
 
@@ -23,7 +24,12 @@ HelloEdu is a fast and powerful application that reduces a long, archived video 
 - Docker + Google Cloud Run for deployment
 - Google's Speech to Text API for transcription
 
+## Challenges Faced
+- Deployment Failure on Heroku
 
-Made with :heart: by [Vidhi Gupta](https://github.com/vidhigupta9) and 
+## Scope of improvement 
+- Fix deployment issues, improve UI and more features
+
+Made with :heart: by [Vidhi Gupta](https://github.com/vidhigupta9) [Abdul Arif](https://github.com/abdularif0705) and [Harsh Tiwari](https://github.com/csharshtiwari)
 
 
