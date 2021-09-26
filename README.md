@@ -16,7 +16,7 @@ HelloEdu is a fast and powerful application that reduces a long, archived video 
 - Students can also download the summarized version on the video
 
 ## 🚀 Tech Stack
-![Languages](https://img.shields.io/github/languages/count/sksuryan/cuse-hacks)
+
 - React(Javascript) as frontend framework
 - Styled Components and Bulma for styling
 - Flask(Python) for backend server
